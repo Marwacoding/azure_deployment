@@ -1,0 +1,6 @@
+Flask>=1.0,<=1.1.2
+requests
+psycopg2-binary
+python-dotenv
+bs4
+Unidecode<=1.2.0
